@@ -3,11 +3,11 @@
 
 1. [Introduction](#introduction)
 2. [Chapter I](#chapter-i) \
-   2.1. [Logical view of database model](#logical-view-of-database-model)
-   2.2. [Description of data](#description-of-data)
+   2.1. [Logical view of database model](#logical-view-of-database-model)  
+   2.2. [Description of data](#description-of-data)  
 
 
-## Introduction
+## Introd. ction
 
 In this project, need to upload the retail network's analytical data to **PostgreSQL**, set up replication in **MySQL** using **Apache Airflow**, and create several analytical **data marts**.
 
