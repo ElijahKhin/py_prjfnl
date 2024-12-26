@@ -7,7 +7,7 @@
    2.2. [Description of data](#description-of-data)  
 
 
-## Introd. ction
+## Introduction
 
 In this project, need to upload the retail network's analytical data to **PostgreSQL**, set up replication in **MySQL** using **Apache Airflow**, and create several analytical **data marts**.
 
