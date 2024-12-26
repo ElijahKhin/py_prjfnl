@@ -14,7 +14,7 @@ In this project, need to upload the retail network's analytical data to **Postgr
 ## Chapter I
 ## Logical view of database model
 
-`![](misc/images/logical_view.png)`
+![](misc/images/logical_view.png)`
 
 ## Description of data
 
