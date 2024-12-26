@@ -14,6 +14,7 @@ In this project, need to upload the retail network's analytical data to **Postgr
 ## Chapter I
 ## Logical view of database model
 
+The logical view was designed using draw.io if you need the file, you can find it in py_prjfnl/miscellaneous/db_logical_view/logical_view.drawio
 ![](misc/images/logical_view.png)`
 
 ## Description of data
